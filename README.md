@@ -1,7 +1,9 @@
 # Compilation-Principle-Labs
 Labs on Compilation Principle, School of Software, Nanjing University, 2022Fall
 
-Environment: Ubuntu 20.04, openjdk-11-jdk, antlr-4.10.1, llvm-13
+<h2>Environment</h2>
+
+Ubuntu 20.04, openjdk-11-jdk, antlr-4.10.1, llvm-13
 
 Lab1\~3 are implemented through Antlr4, Lab4\~7 translate intermediate codes through LLVM
 
