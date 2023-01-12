@@ -1,0 +1,9 @@
+int main(){
+    int a=2, b=1, c=9;
+    if(a>b>c){
+        return a;
+    }else{
+        return b;
+    }
+}
+
