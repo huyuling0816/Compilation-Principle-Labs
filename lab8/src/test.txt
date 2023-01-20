@@ -1,0 +1,10 @@
+
+int combine(int arr1[]) {
+    arr1[0] = 20;
+}
+
+int main() {
+    int a[2] = {1,2};
+    a[0] = 1;
+    combine(a);
+}
