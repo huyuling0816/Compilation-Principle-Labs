@@ -23,3 +23,5 @@ Lab6: translating global variables and conditional statements
 
 Lab7: translating while loops and loop control
 
+Lab8(optional): allowing arrays as arguments to functions
+
